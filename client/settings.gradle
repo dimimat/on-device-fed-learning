@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        flatDir {
+            dirs 'libs'  // Your directory where AAR files are located
+        }
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        flatDir {
+            dirs 'libs'  // Your directory where AAR files are located
+        }
+    }
+}
+rootProject.name = "fed_client_2"
+include ':app'

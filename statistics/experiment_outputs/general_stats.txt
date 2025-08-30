@@ -1,0 +1,31 @@
+Federated Learning Experiment Summary
+======================================
+Total Global Rounds: 20
+Total Clients Involved: 1
+Total Test Samples Processed: 226080
+
+Total Training Time (including compilation): 334.39 seconds (5.57 minutes)
+Total Training Time (excluding compilation): 69.44 seconds (1.16 minutes)
+
+Clients per Global Round:
+  - Round 1: samsung SM-G975F
+  - Round 2: samsung SM-G975F
+  - Round 3: samsung SM-G975F
+  - Round 4: samsung SM-G975F
+  - Round 5: samsung SM-G975F
+  - Round 6: samsung SM-G975F
+  - Round 7: samsung SM-G975F
+  - Round 8: samsung SM-G975F
+  - Round 9: samsung SM-G975F
+  - Round 10: samsung SM-G975F
+  - Round 11: samsung SM-G975F
+  - Round 12: samsung SM-G975F
+  - Round 13: samsung SM-G975F
+  - Round 14: samsung SM-G975F
+  - Round 15: samsung SM-G975F
+  - Round 16: samsung SM-G975F
+  - Round 17: samsung SM-G975F
+  - Round 18: samsung SM-G975F
+  - Round 19: samsung SM-G975F
+  - Round 20: samsung SM-G975F
+Client: samsung SM-G975F | Avg RSSI: -50.85 dBm | Avg Latency: 49.95 ms | Avg Download: -1.00 Mbps | Avg Upload: -1.00 Mbps | Total RX: 0.77 MB | Total TX: 0.03 MB
